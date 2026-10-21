@@ -12,8 +12,8 @@
 | Project | What it does | Tech |
 |---|---|---|
 | 🌾 [**AgriVision**](https://github.com/zainashfak/AgriVision) | Detects wheat leaf diseases from a photo, estimates severity and yield loss, and shows a Grad-CAM heatmap | MobileNetV2, TensorFlow, Streamlit |
-| 🚗 [**AutoSteer-Vision**](https://github.com/zainashfak/AutoSteer-Vision) | Write one line about what it does | Python |
-| 🛡️ [**cyber-threat-analyzer**](https://github.com/zainashfak/cyber-threat-analyzer) | Write one line about what it does | Python |
+| 🚗 [**AutoSteer-Vision**](https://github.com/zainashfak/AutoSteer-Vision) | Dashcam video analysis with lane detection, object detection, steering angle prediction and driver warnings | YOLOv8, CNN, OpenCV, Streamlit |
+| 🛡️ [**cyber-threat-analyzer**](https://github.com/zainashfak/cyber-threat-analyzer) | Upload security logs, detect threats such as repeated failed logins from one IP, view them in charts, and get AI-generated incident reports | Python, Streamlit, Pandas, Plotly, SQLite, Gemini API |
 
 ---
 
